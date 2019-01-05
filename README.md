@@ -29,7 +29,7 @@ And Adobe After Effects (obviously).
 
 **!Note: dont forget to configure AE outputModule to your needs: [details](https://helpx.adobe.com/after-effects/using/basics-rendering-exporting.html#output_modules_and_output_module_settings). Usually i use h264 output codec and call the outputModule respectively.**
 
-1. download or clone repo (`$ git clone https://github.com/Inlife/nexrender-boilerplate.git`)
+1. download or clone repo (`$ git clone https://github.com/chriszachary/nexrender-boilerplate.git`)
 2. install dependencies (`$ npm install`)
 3. configure `start.js` script; set path to your aerender binary
 4. start rendering (`$ node start.js`)
